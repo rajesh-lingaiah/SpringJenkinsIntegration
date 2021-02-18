@@ -19,6 +19,7 @@ public class SpringJenkinsIntegrationApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Application execution starts");
+		System.out.println("my second commit");
 		SpringApplication.run(SpringJenkinsIntegrationApplication.class, args);
 	}
 
